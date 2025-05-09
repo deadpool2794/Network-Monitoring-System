@@ -1,0 +1,11 @@
+setup.py
+browser_history/__init__.py
+browser_history/browsers.py
+browser_history/cli.py
+browser_history/generic.py
+browser_history/utils.py
+my_app.egg-info/PKG-INFO
+my_app.egg-info/SOURCES.txt
+my_app.egg-info/dependency_links.txt
+my_app.egg-info/requires.txt
+my_app.egg-info/top_level.txt

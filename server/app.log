@@ -1,0 +1,31 @@
+2025-02-16 16:25:04,931 WARNING  * Debugger is active!
+2025-02-16 16:25:04,933 INFO  * Debugger PIN: 893-069-374
+2025-02-16 16:25:11,725 INFO 127.0.0.1 - - [16/Feb/2025 16:25:11] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:25:11,727 INFO 127.0.0.1 - - [16/Feb/2025 16:25:11] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:25:11,734 INFO 127.0.0.1 - - [16/Feb/2025 16:25:11] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:25:11,735 INFO 127.0.0.1 - - [16/Feb/2025 16:25:11] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:25:11,735 INFO 127.0.0.1 - - [16/Feb/2025 16:25:11] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:25:47,006 INFO  * Detected change in 'C:\\Users\\rakes\\OneDrive\\Desktop\\NetworkMonitoringSystem_backend\\app.py', reloading
+2025-02-16 16:25:47,008 INFO  * Detected change in 'C:\\Users\\rakes\\OneDrive\\Desktop\\NetworkMonitoringSystem_backend\\app.py', reloading
+2025-02-16 16:25:48,695 WARNING  * Debugger is active!
+2025-02-16 16:25:48,697 INFO  * Debugger PIN: 893-069-374
+2025-02-16 16:25:52,075 INFO 127.0.0.1 - - [16/Feb/2025 16:25:52] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:25:52,076 INFO 127.0.0.1 - - [16/Feb/2025 16:25:52] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:25:52,077 INFO 127.0.0.1 - - [16/Feb/2025 16:25:52] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:25:52,078 INFO 127.0.0.1 - - [16/Feb/2025 16:25:52] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:25:52,079 INFO 127.0.0.1 - - [16/Feb/2025 16:25:52] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:27:39,344 INFO 127.0.0.1 - - [16/Feb/2025 16:27:39] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:27:39,345 INFO 127.0.0.1 - - [16/Feb/2025 16:27:39] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:27:39,346 INFO 127.0.0.1 - - [16/Feb/2025 16:27:39] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:27:39,347 INFO 127.0.0.1 - - [16/Feb/2025 16:27:39] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:27:39,348 INFO 127.0.0.1 - - [16/Feb/2025 16:27:39] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:28:15,744 INFO  * Detected change in 'C:\\Users\\rakes\\OneDrive\\Desktop\\NetworkMonitoringSystem_backend\\app.py', reloading
+2025-02-16 16:28:15,745 INFO  * Detected change in 'C:\\Users\\rakes\\OneDrive\\Desktop\\NetworkMonitoringSystem_backend\\app.py', reloading
+2025-02-16 16:28:17,723 WARNING  * Debugger is active!
+2025-02-16 16:28:17,726 INFO  * Debugger PIN: 893-069-374
+2025-02-16 16:28:21,533 INFO 127.0.0.1 - - [16/Feb/2025 16:28:21] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:28:21,534 INFO 127.0.0.1 - - [16/Feb/2025 16:28:21] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:28:21,534 INFO 127.0.0.1 - - [16/Feb/2025 16:28:21] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:28:21,535 INFO 127.0.0.1 - - [16/Feb/2025 16:28:21] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:28:21,537 INFO 127.0.0.1 - - [16/Feb/2025 16:28:21] "OPTIONS /predict HTTP/1.1" 200 -
+2025-02-16 16:30:30,473 INFO  * Detected change in 'C:\\Users\\rakes\\OneDrive\\Desktop\\NetworkMonitoringSystem_backend\\app.py', reloading

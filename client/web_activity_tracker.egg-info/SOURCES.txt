@@ -1,0 +1,12 @@
+setup.py
+browser_history/__init__.py
+browser_history/browsers.py
+browser_history/cli.py
+browser_history/generic.py
+browser_history/utils.py
+web_activity_tracker.egg-info/PKG-INFO
+web_activity_tracker.egg-info/SOURCES.txt
+web_activity_tracker.egg-info/dependency_links.txt
+web_activity_tracker.egg-info/entry_points.txt
+web_activity_tracker.egg-info/requires.txt
+web_activity_tracker.egg-info/top_level.txt

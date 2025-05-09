@@ -1,0 +1,2 @@
+[console_scripts]
+web-activity-tracker = web_activity_tracker:main
